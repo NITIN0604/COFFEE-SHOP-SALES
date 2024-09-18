@@ -1,7 +1,7 @@
 # COFFEE-SHOP-SALES
 This project analyzes sales data from a coffee shop to identify trends, customer preferences, and insights into overall business performance using Microsoft Excel.
 
-# RESULTS
+## RESULTS
 . Best Selling Products
 . Average Bill Per Person
 . Customer Purchasing Patterns
